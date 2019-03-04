@@ -4,4 +4,4 @@ Video Visual Relation Detection, some problems emerge. Compared to VidVRD, other
 produce better results. 
 # usage
 please read "实验说明.docx" before you use this code and download relative datasets.
-python main.py --batch_size 64 ...other parameters
+`python main.py --batch_size 64 ...other parameters`
