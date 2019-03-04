@@ -1,0 +1,14 @@
+¹Ù·½baseline_video_relations.json
+detection mAP: 0.0856027640015
+detection recall@50: 0.0502585321665
+detection recall@100: 0.0577042400837
+tagging precision@1: 0.430000007153
+tagging precision@5: 0.297000020742
+tagging precision@10: 0.211000010371
+-----zero-shot------
+detection mAP: 0.00377570288654
+detection recall@50: 0.0185185186565
+detection recall@100: 0.0185185186565
+tagging precision@1: 0.0273972600698
+tagging precision@5: 0.0246575344354
+tagging precision@10: 0.016438357532

@@ -1,0 +1,14 @@
+0709_192709
+detection mAP: 0.0846575939386
+detection recall@50: 0.0496380552649
+detection recall@100: 0.0560496374965
+tagging precision@1: 0.409999996424
+tagging precision@5: 0.288000017405
+tagging precision@10: 0.212000012398
+-----zero-shot------
+detection mAP: 0.00372787516646
+detection recall@50: 0.0185185186565
+detection recall@100: 0.0185185186565
+tagging precision@1: 0.0136986300349
+tagging precision@5: 0.0219178088009
+tagging precision@10: 0.0178082194179
